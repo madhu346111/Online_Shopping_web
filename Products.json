@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 15000,
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "rating": 4.7,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 3,
+    "name": "T-Shirt",
+    "category": "Fashion",
+    "price": 800,
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 4,
+    "name": "Washing Machine",
+    "category": "Home",
+    "price": 25000,
+    "rating": 4.1,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 5,
+    "name": "Book - JavaScript",
+    "category": "Books",
+    "price": 500,
+    "rating": 4.8,
+    "image": "https://via.placeholder.com/200"
+  }
+]
